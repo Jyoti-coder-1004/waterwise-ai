@@ -341,6 +341,8 @@ This project is licensed under the MIT License.
 # 👩‍💻 Developer
 
 ### **Jyoti**
+### **Hareesh**
+### **Sanjana**
 
 **B.Tech Computer Science Engineering (3rd Year)**
 
