@@ -29,7 +29,8 @@ app.use(helmet());
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://waterwise-bcc8qvgek-jyoti20.vercel.app"
+    "https://waterwise-bcc8qvgek-jyoti20.vercel.app",
+    "https://waterwise-ai-omega.vercel.app"
   ],
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
